@@ -1,0 +1,19 @@
+#Home {
+    background: url("../../../public/BackgroundA\ .png") center center no-repeat fixed;
+    background-position: center 45%;
+    background-size: cover;
+    width: 100vw;
+    height: 80vh;
+}
+
+.apresentacao {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    height: 58vh;
+}
+
+.apresentacao p {
+    color: #fff;
+}

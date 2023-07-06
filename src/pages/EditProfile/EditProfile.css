@@ -1,0 +1,20 @@
+#edit-profile {
+    text-align: center;
+}
+
+#edit-profile h2,
+#edit-profile p {
+    color: white;
+}
+
+span {
+    margin-top: 24px;
+    color: white;
+}
+
+.profile-image {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    margin-bottom: 12px;
+}

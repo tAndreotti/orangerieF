@@ -1,0 +1,11 @@
+.photo-item {
+    color: #fff;
+}
+
+.photo-item img {
+    width: 80vw;
+}
+
+.photo-author a {
+    font-weight: 700;
+}

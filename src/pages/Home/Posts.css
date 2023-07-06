@@ -1,0 +1,39 @@
+.like {
+    margin-bottom: 12px;
+}
+
+.btn {
+    display: block;
+    text-align: center;
+    max-width: 90px;
+    padding: 10px 8px;
+    margin-bottom: 48px;
+    width: auto;
+}
+
+#search-form {
+    position: relative;
+}
+
+#search-form input {
+    padding-left: 32px;
+    width: 100%;
+    height: 20px;
+}
+
+#search-form svg {
+    z-index: 3;
+    position: absolute;
+    top: 12px;
+    left: 8px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.photo-container {
+    padding: 24px;
+    padding-bottom: 2px;
+    margin-bottom: 24px;
+    background: rgba(217, 217, 217, 0.1);
+    backdrop-filter: blur(10px);
+}

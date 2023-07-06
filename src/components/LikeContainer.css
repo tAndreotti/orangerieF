@@ -1,0 +1,13 @@
+.like {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    color: #fff;
+    height: 36px;
+}
+
+.like svg {
+    margin-right: 12px;
+    color: rgb(15, 155, 31);
+    cursor: pointer;
+}
