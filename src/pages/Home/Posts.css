@@ -37,3 +37,7 @@
     background: rgba(217, 217, 217, 0.1);
     backdrop-filter: blur(10px);
 }
+
+.no-photos {
+    color: #fff;
+}
