@@ -76,7 +76,7 @@ const Posts = () => {
           <h2 className="no-photos">
             Ainda não temos fotos, a primeira postagem é sua, mãe{" "}
           </h2>
-          <Link to={`/users/${user.userId}`}>Clique Aqui</Link>
+          {user.userId && <Link to={`/users/${user.userId}`}>Clique Aqui</Link>}
         </>
       )}
     </div>
